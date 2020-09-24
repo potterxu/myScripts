@@ -1,0 +1,6 @@
+version: "2"
+syncs:
+  dockerSyncName:
+    src: "."
+    sync_excludes: []
+    sync_strategy: "native_osx"
